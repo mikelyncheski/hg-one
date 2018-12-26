@@ -1,4 +1,14 @@
 {
 	"name": "@mlyncheski/hg-one",
-	"version": "1.0.0"
+	"version": "1.0.0",
+	"description": "Just playing aroumd.",
+	"license": "MIT",
+	"repository": "mlyncheski/hg-one",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"npm",
+		"package",
+		"dude"
+	]
 }
